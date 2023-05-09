@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    //https://stackoverflow.com/questions/51860043/javascript-es6-typeerror-class-constructor-client-cannot-be-invoked-without-ne
+    "target": "ES6",
     "skipLibCheck": true,
     "module": "CommonJS",
     "moduleResolution": "node",
